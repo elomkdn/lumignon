@@ -1,0 +1,219 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: package/contents/ui/FullView.qml:26
+#, kde-format
+msgid "Out of quota around %1 at this pace"
+msgstr ""
+
+#: package/contents/ui/FullView.qml:29
+#, kde-format
+msgid "%1 is thinking…"
+msgstr ""
+
+#: package/contents/ui/FullView.qml:31
+#, kde-format
+msgid "%1 tokens today"
+msgstr ""
+
+#: package/contents/ui/FullView.qml:34
+#, kde-format
+msgid "No known limit · %1"
+msgstr ""
+
+#: package/contents/ui/FullView.qml:221
+msgid "Limit reached…"
+msgstr ""
+
+#: package/contents/ui/FullView.qml:221
+#, kde-format
+msgid "Ask %1…"
+msgstr ""
+
+#: package/contents/ui/FullView.qml:240
+msgctxt "the agent's default model"
+msgid "Default"
+msgstr ""
+
+#: package/contents/ui/FullView.qml:256 package/contents/ui/main.qml:82
+msgid "Refresh usage"
+msgstr ""
+
+#: package/contents/ui/FullView.qml:257
+msgid "Refresh usage (a tiny Haiku request)"
+msgstr ""
+
+#: package/contents/ui/FullView.qml:266
+msgid "New conversation"
+msgstr ""
+
+#: package/contents/ui/FullView.qml:275
+msgid "Continue in a terminal"
+msgstr ""
+
+#: package/contents/ui/FullView.qml:275 package/contents/ui/main.qml:77
+#, kde-format
+msgid "Open %1 in a terminal"
+msgstr ""
+
+#: package/contents/ui/FullView.qml:276
+#, kde-format
+msgid "%1 (here, the agent can only read and search)"
+msgstr ""
+
+#: package/contents/ui/FullView.qml:288
+msgid "Stop"
+msgstr ""
+
+#: package/contents/ui/FullView.qml:288
+msgid "Send"
+msgstr ""
+
+#: package/contents/ui/UsageMeter.qml:27
+msgid "Not measured yet"
+msgstr ""
+
+#: package/contents/ui/UsageMeter.qml:63
+#, kde-format
+msgctxt "a share of the quota"
+msgid "%1%"
+msgstr ""
+
+#: package/contents/ui/main.qml:71
+#, kde-format
+msgid "Limit reached. %1"
+msgstr ""
+
+#: package/contents/ui/main.qml:72
+#, kde-format
+msgctxt "window: share used"
+msgid "%1: %2%"
+msgstr ""
+
+#: package/contents/ui/main.qml:73
+msgid "Click to ask a question"
+msgstr ""
+
+#: package/contents/ui/main.qml:103
+msgid "Limit"
+msgstr ""
+
+#: package/contents/ui/main.qml:104
+#, kde-format
+msgctxt "a number of days, short"
+msgid "%1 d"
+msgstr ""
+
+#: package/contents/ui/main.qml:105
+#, kde-format
+msgctxt "a number of hours, short"
+msgid "%1 h"
+msgstr ""
+
+#: package/contents/ui/main.qml:106
+#, kde-format
+msgctxt "a number of minutes, short"
+msgid "%1 min"
+msgstr ""
+
+#: package/contents/ui/main.qml:114
+msgid "Window free"
+msgstr ""
+
+#: package/contents/ui/main.qml:115
+#, kde-format
+msgid "Resets in %1 min"
+msgstr ""
+
+#: package/contents/ui/main.qml:116
+#, kde-format
+msgid "Resets in %1 h %2"
+msgstr ""
+
+#: package/contents/ui/main.qml:117
+#, kde-format
+msgid "Resets %1"
+msgstr ""
+
+#: package/contents/ui/main.qml:122
+#, kde-format
+msgid "Reading %1"
+msgstr ""
+
+#: package/contents/ui/main.qml:122
+msgid "Reading a file"
+msgstr ""
+
+#: package/contents/ui/main.qml:123
+#, kde-format
+msgid "Searching “%1”"
+msgstr ""
+
+#: package/contents/ui/main.qml:124
+msgid "Reading a web page"
+msgstr ""
+
+#: package/contents/ui/main.qml:125
+msgid "Looking through files"
+msgstr ""
+
+#: package/contents/ui/main.qml:126
+#, kde-format
+msgid "Running %1"
+msgstr ""
+
+#: package/contents/ui/main.qml:126
+msgid "Running a command"
+msgstr ""
+
+#: package/contents/ui/main.qml:127
+msgid "Thinking"
+msgstr ""
+
+#: package/contents/ui/main.qml:128
+#, kde-format
+msgid "Using %1"
+msgstr ""
+
+#: package/contents/ui/main.qml:133 package/contents/ui/main.qml:143
+#, kde-format
+msgid "%1 could not answer."
+msgstr ""
+
+#: package/contents/ui/main.qml:136
+#, kde-format
+msgid "%1 is set up with an API key, and Lumignon only uses subscriptions. Request cancelled."
+msgstr ""
+
+#: package/contents/ui/main.qml:137
+#, kde-format
+msgid "%1 is not signed in. Open it in a terminal to sign in."
+msgstr ""
+
+#: package/contents/ui/main.qml:138
+#, kde-format
+msgid "%1 limit reached. It comes back %2."
+msgstr ""
+
+#: package/contents/ui/main.qml:139
+#, kde-format
+msgid "%1 limit reached."
+msgstr ""
+
+#: package/contents/ui/main.qml:140
+#, kde-format
+msgid "Could not start %1: %2"
+msgstr ""
+
+#: package/contents/ui/main.qml:141
+msgid "The answer process stopped."
+msgstr ""
+
+#: package/contents/ui/main.qml:200
+msgid "This question is too long for the widget: use the terminal."
+msgstr ""
+
+#: package/contents/ui/main.qml:210
+msgid "Could not start the backend."
+msgstr ""

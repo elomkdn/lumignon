@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "elomkpadonou@gmail.com",
+                "Name": "Elom"
+            }
+        ],
+        "Category": "Utilities",
+        "Description": "A little candle in your panel: ask Claude Code, Codex or OpenCode a question, and watch it melt as your subscription quota goes",
+        "Description[fr]": "Une petite bougie dans ton panneau : pose une question à Claude Code, Codex ou OpenCode, et regarde-la fondre au fil de ton quota d’abonnement",
+        "Icon": "dialog-messages",
+        "Id": "com.github.elomkdn.lumignon",
+        "License": "GPL-3.0-or-later",
+        "Name": "Lumignon",
+        "Website": "https://github.com/elomkdn/lumignon"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
